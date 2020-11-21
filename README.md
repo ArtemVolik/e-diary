@@ -15,7 +15,7 @@ python manage.py shell
 В запустившемся интереактивном режиме выполните команду:
 
 ```python
-from scripts.py import do_all
+from scripts.py import do_all, fix_marks, remove_chastisements, create_commendation
 ```
 Теперь вы пожете начать пользоваться скриптом.
 
